@@ -247,6 +247,7 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [armorgames.com](http://armorgames.com)
 - [arouraios.gr](http://arouraios.gr)
 - [articlesnatch.com](http://articlesnatch.com)
+- [asenews.in](http://asenews.in)
 - [ashleymadison.com](http://ashleymadison.com)
 - [ashleyrnadison.com](http://ashleyrnadison.com)
 - [atlas.sk](http://atlas.sk)
